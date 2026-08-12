@@ -1,0 +1,1 @@
+renkler = ["kırmızı","sarı","siyah"]
